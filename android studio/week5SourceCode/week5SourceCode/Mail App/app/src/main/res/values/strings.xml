@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mail App</string>
+    <string name="str_title">title</string>
+    <string name="str_to">to</string>
+    <string name="str_containing_text">Write here</string>
+    <string name="str_send">send</string>
+</resources>
