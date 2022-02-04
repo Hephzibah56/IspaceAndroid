@@ -17,7 +17,7 @@
 
     <style name="Theme.CodingBootcampCustom" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- <item name="android:windowBackground">#800000</item>-->
-        <item name="android:windowBackground">@drawable/bgimage</item>
+        <item name="android:windowBackground">@drawable/stop</item>
         <item name="colorPrimary">@color/purple_500</item>
         <item name="colorPrimaryVariant">@color/purple_700</item>
         <item name="colorOnPrimary">@color/white</item>

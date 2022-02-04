@@ -9,9 +9,9 @@
     <color name="white">#FFFFFFFF</color>
      //explain
     <color name="colorPrimary">#3F51B5</color>
-    <color name="indicatorColor">#339933</color>
+    <color name="indicatorColor">#80bfff</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF5252</color>
+    <color name="colorAccent">#009933</color>
     <color name="colorTextPrimary">#212121</color>
     <color name="colorTextSecondary">#757575</color>
     <color name="colorSecondary">#663300</color>
