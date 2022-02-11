@@ -1,0 +1,102 @@
+[
+  {
+
+    "first_name": "KWADWO",
+    "last_name": "Busumtwi",
+    "email": "kwadwobusumtwi@gmail.com",
+    "gender": "Male",
+    "profession": "Backend Developer",
+    "phone_number":"0545644173",
+    "location":"Accra",
+    "image":9
+  },
+  {
+
+
+    "first_name": "Olorunfemi",
+    "last_name": "Oyewole",
+    "email": "eliasikechi14@gmail.com",
+    "gender": "Male",
+    "profession": "Programmer/Graphic Designer",
+    "phone_number":"0545565901",
+    "location":"Accra",
+    "image":9
+  },
+  {
+
+    "first_name": "Hephzibah",
+    "last_name": "Emereole",
+    "email": "hephzibahemereole@gmail.com",
+    "gender": "Female",
+    "profession": "Student",
+    "phone_number":"0279542753",
+    "location":"Berekuso",
+    "image":9
+  },
+  {
+
+    "first_name": "Fatimah",
+    "last_name": "Adam",
+    "email": "adamfatima2557@gmail.com",
+    "gender": "Female",
+    "profession": "Student of the  University for development Studies(UDS)",
+    "phone_number":"0201112557",
+    "location":"Accra",
+    "image":9
+  },
+  {
+
+
+    "first_name": "Claudia",
+    "last_name": "Mintogo",
+    "email": "claudiamintogo@gmail.com",
+    "gender": "Female",
+    "profession": "Student",
+    "phone_number":"0269384159",
+    "location":"Awoshie",
+    "image":9
+  },
+  {
+
+
+
+    "first_name": "Albert",
+    "last_name": "Osei",
+    "email": "oseialbert072@gmail.com",
+    "gender": "Male",
+    "profession": "Software developer",
+    "phone_number":"0542291420",
+    "location":"Labadi",
+    "image":9
+  },
+  {
+    "first_name": "PAULA",
+    "last_name": "Ali",
+    "email": "paulawakabi@gmail.com",
+    "gender": "Female",
+    "profession": "Solution Architect",
+    "phone_number":"0560116544",
+    "location":"Accra",
+    "image":9
+  },
+  {
+    "first_name": "Valerie A",
+    "last_name": "Baidoo",
+    "email": "Valeriebaidoo21@gmail.com",
+    "gender": "Female",
+    "profession": "insurance Consultant",
+    "phone_number":"0501336132",
+    "location":"Prampram",
+    "image":9
+  },
+  {
+    "first_name": "Koffi",
+    "last_name": "Nyanouglo",
+    "email": "yawomessie@gmail.com",
+    "gender": "Male",
+    "profession": "Android Developer",
+    "phone_number":"0553100839",
+    "location":"Adenta Foster Home",
+    "image":9
+  }
+]

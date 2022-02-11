@@ -5,12 +5,16 @@ import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.ViewModel
 import com.example.fetchstaticdata.R
+import com.example.fetchstaticdata.data.LearnersRepository
 
 class HomeViewModel (app:Application) : AndroidViewModel(app) {
+    private val dataRepo = LearnersRepository()
+
     init {
-        val text = FileHelper.getTextFromResources(app, R.raw.learners)
-        // val text = FileHelper.getTextFromAssets(app, "learners.json")
-         Log.d("DATA", text)  //displays text to the console
-        //parseText(text)
+        val learnersData = dataRepo.getLearnersData(app)
+
+        for (learners in learnersData){
+            Log.i("DATA","${learners.FirstName}(\$${learners.Gender})")
+        }
     }
 }
